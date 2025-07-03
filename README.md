@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/57522d8d-4845-40f7-bf4f-80ea83d86e45)
+
 # 👋 Hi there, I'm Nickie!
 
 I'm a passionate **Network Engineer** with a strong foundation in designing, deploying, and maintaining service provider networks. My specialty lies in working with **Nokia SR (Service Router) platforms**, where I’ve spent years fine-tuning high-performance, scalable network infrastructures.
